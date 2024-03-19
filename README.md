@@ -31,7 +31,7 @@ To run the project run `npm run dev`
 1. The team must be under 200 salary cap
 2. The fantasy team must have 2 Attack (A), 2 Midfield (M), 2 Defense (D, LSM, SSDM), 1 Goalie (G) positions
 3. The team must fill all the positions, can’t be missing any positions
-4. The outputted team will fit all the criteria and is expected to perform above average
+4. The outputted team will fit all the criteria and is expected to perform above average - Remember this is a functionality for a fan to use
 
 ###### Fantasy Stat Point Values
 | Field Name | Point Value | 
