@@ -27,6 +27,12 @@ To run the project run `npm run dev`
 - [ ] Write a single unit test to test the team auto generating functions
 
 ### Relevant Info
+#### Fantasy Team Criteria
+1. The team must be under 200 salary cap
+2. The fantasy team must have 2 Attack (A), 2 Midfield (M), 2 Defense (D, LSM, SSDM), 1 Goalie (G) positions
+3. The team must fill all the positions, can’t be missing any positions
+4. The outputted team will fit all the criteria and is expected to perform above average
+
 ###### Fantasy Stat Point Values
 | Field Name | Point Value | 
 | :-----------| :-----------: |
