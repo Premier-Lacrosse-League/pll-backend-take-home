@@ -44,15 +44,19 @@ To run the project run `npm run dev`
 
 ###### Stat Bonuses
 If they have goals > 3
+
 &nbsp;&nbsp;goalBonus: 5 points
 
 If they have assists > 3
+
 &nbsp;&nbsp;assistBonus: 5 points
 
 If they have causedTurnovers > 3
+
 &nbsp;&nbsp;causedTurnoverBonus: 5 points
 
 If they have saves > 20
+
 &nbsp;&nbsp;saveBonus: 5 points
 
 
