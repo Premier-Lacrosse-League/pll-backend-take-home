@@ -28,26 +28,32 @@ To run the project run `npm run dev`
 
 ### Relevant Info
 Fantasy Stat Point Values
-  onePointGoals: 10 points
-  twoPointGoals: 20 points
-  assists: 10 points
-  groundBalls: 1 points
-  causedTurnovers: 10 points
-  turnovers: -3 points
-  goalsAgainst: -1 points
-  twoPointGoalsAgainst: -2 points
-  saves: 3 points
-  faceoffsWon: .8 points
-  faceoffsLost: -1 points
+| Field Name | Point Value | 
+| :-----------| :-----------: |
+| onePointGoals | 10 points |
+| twoPointGoals | 20 points |
+| assists | 10 points |
+| groundBalls | 1 points |
+| causedTurnovers | 10 points |
+| turnovers | -3 points |
+| goalsAgainst | -1 points |
+| twoPointGoalsAgainst | -2 points |
+| saves | 3 points |
+| faceoffsWon | .8 points |
+| faceoffsLost | -1 points |
 
 If they have goals > 3
-  goalBonus: 5 points
+
+&nbsp;&nbsp;goalBonus: 5 points
 If they have assists > 3
-  assistBonus: 5 points
+
+&nbsp;&nbsp;assistBonus: 5 points
 If they have causedTurnovers > 3
-  causedTurnoverBonus: 5 points
+
+&nbsp;&nbsp;causedTurnoverBonus: 5 points
 If they have saves > 20
-  saveBonus: 5 points
+
+&nbsp;&nbsp;saveBonus: 5 points
 
 
 ### Testing
