@@ -1,0 +1,5492 @@
+{
+  "data": {
+    "allPlayers": [
+      {
+        "name": "Kyle Pless",
+        "position": "LSM",
+        "currentTeam": {
+          "fullName": "Archers"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 0,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 8
+        }
+      },
+      {
+        "name": "Matt Rees",
+        "position": "LSM",
+        "currentTeam": {
+          "fullName": "Cannons"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 1,
+          "twoPointGoals": 2,
+          "turnovers": 2,
+          "groundBalls": 12,
+          "causedTurnovers": 10,
+          "faceoffsWon": 1,
+          "faceoffsLost": 37,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 20,
+          "weekPts": -2,
+          "avgPPG": 4,
+          "salary": 19
+        }
+      },
+      {
+        "name": "Myles Jones",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Atlas"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 6,
+          "assists": 4,
+          "twoPointGoals": 0,
+          "turnovers": 7,
+          "groundBalls": 6,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 209,
+          "weekPts": 8,
+          "avgPPG": 20.9,
+          "salary": 27
+        }
+      },
+      {
+        "name": "Isaiah Davis-Allen",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Redwoods"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 4,
+          "groundBalls": 13,
+          "causedTurnovers": 2,
+          "faceoffsWon": 2,
+          "faceoffsLost": 8,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": -12.2,
+          "weekPts": -6,
+          "avgPPG": -1.2,
+          "salary": 8
+        }
+      },
+      {
+        "name": "Michael Sowers",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Waterdogs"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 15,
+          "assists": 15,
+          "twoPointGoals": 0,
+          "turnovers": 18,
+          "groundBalls": 11,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 299,
+          "weekPts": 1,
+          "avgPPG": 33.2,
+          "salary": 37
+        }
+      },
+      {
+        "name": "Eli Gobrecht",
+        "position": "D",
+        "currentTeam": {
+          "fullName": "Waterdogs"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 2,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 3,
+          "groundBalls": 19,
+          "causedTurnovers": 9,
+          "faceoffsWon": 20,
+          "faceoffsLost": 137,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 112,
+          "weekPts": 36,
+          "avgPPG": 11.2,
+          "salary": 16
+        }
+      },
+      {
+        "name": "Ryan Smith",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Chaos"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 14,
+          "assists": 4,
+          "twoPointGoals": 0,
+          "turnovers": 7,
+          "groundBalls": 9,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 127,
+          "weekPts": 23,
+          "avgPPG": 15.9,
+          "salary": 13
+        }
+      },
+      {
+        "name": "Ian MacKay",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Chaos"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 7,
+          "assists": 3,
+          "twoPointGoals": 1,
+          "turnovers": 5,
+          "groundBalls": 6,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 4,
+          "weekPts": 0,
+          "avgPPG": 0.8,
+          "salary": 10
+        }
+      },
+      {
+        "name": "Jack Rowlett",
+        "position": "D",
+        "currentTeam": {
+          "fullName": "Chaos"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 1,
+          "groundBalls": 12,
+          "causedTurnovers": 12,
+          "faceoffsWon": 2,
+          "faceoffsLost": 3,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 88.6,
+          "weekPts": 10,
+          "avgPPG": 8.9,
+          "salary": 19
+        }
+      },
+      {
+        "name": "Peyton Smith",
+        "position": "FO",
+        "currentTeam": {
+          "fullName": "Atlas"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 0,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 1
+        }
+      },
+      {
+        "name": "Romar Dennis",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Redwoods"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 4,
+          "assists": 2,
+          "twoPointGoals": 3,
+          "turnovers": 9,
+          "groundBalls": 9,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 114,
+          "weekPts": 2,
+          "avgPPG": 14.3,
+          "salary": 14
+        }
+      },
+      {
+        "name": "Reece Eddy",
+        "position": "LSM",
+        "currentTeam": {
+          "fullName": "Archers"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 0,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 10,
+          "avgPPG": 0,
+          "salary": 6
+        }
+      },
+      {
+        "name": "Craig Chick",
+        "position": "LSM",
+        "currentTeam": {
+          "fullName": "Cannons"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 1,
+          "groundBalls": 6,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 3,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 148,
+          "weekPts": -3,
+          "avgPPG": 14.8,
+          "salary": 30
+        }
+      },
+      {
+        "name": "Kyle Jackson",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Chaos"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 10,
+          "assists": 3,
+          "twoPointGoals": 0,
+          "turnovers": 13,
+          "groundBalls": 7,
+          "causedTurnovers": 2,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 104,
+          "weekPts": 13,
+          "avgPPG": 11.6,
+          "salary": 14
+        }
+      },
+      {
+        "name": "Kyle Hartzell",
+        "position": "LSM",
+        "currentTeam": {
+          "fullName": "Cannons"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 7,
+          "causedTurnovers": 3,
+          "faceoffsWon": 2,
+          "faceoffsLost": 16,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 87,
+          "weekPts": 20,
+          "avgPPG": 10.9,
+          "salary": 20
+        }
+      },
+      {
+        "name": "Dylan Gergar",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Chrome"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 0,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 1
+        }
+      },
+      {
+        "name": "Ryan Drenner",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Cannons"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 15,
+          "assists": 7,
+          "twoPointGoals": 1,
+          "turnovers": 5,
+          "groundBalls": 10,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 213,
+          "weekPts": 45,
+          "avgPPG": 21.3,
+          "salary": 25
+        }
+      },
+      {
+        "name": "Mac O'Keefe",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Archers"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 22,
+          "assists": 5,
+          "twoPointGoals": 4,
+          "turnovers": 9,
+          "groundBalls": 23,
+          "causedTurnovers": 3,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 154,
+          "weekPts": 43,
+          "avgPPG": 15.4,
+          "salary": 1
+        }
+      },
+      {
+        "name": "Mark McNeill",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Cannons"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 0,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 30,
+          "weekPts": 0,
+          "avgPPG": 3.3,
+          "salary": 8
+        }
+      },
+      {
+        "name": "Patrick Resch",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Chaos"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 1,
+          "assists": 4,
+          "twoPointGoals": 1,
+          "turnovers": 2,
+          "groundBalls": 10,
+          "causedTurnovers": 2,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 118,
+          "weekPts": 11,
+          "avgPPG": 11.8,
+          "salary": 23
+        }
+      },
+      {
+        "name": "Jackson Morrill",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Whipsnakes"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 11,
+          "assists": 15,
+          "twoPointGoals": 0,
+          "turnovers": 11,
+          "groundBalls": 11,
+          "causedTurnovers": 2,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 60,
+          "weekPts": 68,
+          "avgPPG": 6,
+          "salary": 7
+        }
+      },
+      {
+        "name": "Blaze Riorden",
+        "position": "G",
+        "currentTeam": {
+          "fullName": "Chaos"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 4,
+          "twoPointGoals": 0,
+          "turnovers": 3,
+          "groundBalls": 24,
+          "causedTurnovers": 2,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 135,
+          "goalsAgainst": 92,
+          "twoPointGoalsAgainst": 11
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 353,
+          "weekPts": 55,
+          "avgPPG": 35.3,
+          "salary": 38
+        }
+      },
+      {
+        "name": "Chris Cloutier",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Chaos"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 10,
+          "assists": 1,
+          "twoPointGoals": 0,
+          "turnovers": 10,
+          "groundBalls": 5,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 125,
+          "weekPts": 0,
+          "avgPPG": 20.8,
+          "salary": 15
+        }
+      },
+      {
+        "name": "Max Adler",
+        "position": "FO",
+        "currentTeam": {
+          "fullName": "Chaos"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 2,
+          "groundBalls": 7,
+          "causedTurnovers": 0,
+          "faceoffsWon": 11,
+          "faceoffsLost": 13,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": -8.8,
+          "weekPts": 0,
+          "avgPPG": -2.2,
+          "salary": 10
+        }
+      },
+      {
+        "name": "Troy Reh",
+        "position": "LSM",
+        "currentTeam": {
+          "fullName": "Chaos"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 1,
+          "assists": 0,
+          "twoPointGoals": 1,
+          "turnovers": 4,
+          "groundBalls": 17,
+          "causedTurnovers": 9,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 106,
+          "weekPts": 8,
+          "avgPPG": 10.6,
+          "salary": 27
+        }
+      },
+      {
+        "name": "Dylan Molloy",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Atlas"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 3,
+          "assists": 1,
+          "twoPointGoals": 0,
+          "turnovers": 9,
+          "groundBalls": 2,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 241,
+          "weekPts": 0,
+          "avgPPG": 24.1,
+          "salary": 29
+        }
+      },
+      {
+        "name": "Bryce Young",
+        "position": "D",
+        "currentTeam": {
+          "fullName": "Whipsnakes"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 1,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 5,
+          "groundBalls": 15,
+          "causedTurnovers": 10,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 52,
+          "weekPts": -3,
+          "avgPPG": 5.2,
+          "salary": 21
+        }
+      },
+      {
+        "name": "Chris Aslanian",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Cannons"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 9,
+          "assists": 5,
+          "twoPointGoals": 4,
+          "turnovers": 7,
+          "groundBalls": 3,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 94,
+          "weekPts": 10,
+          "avgPPG": 18.8,
+          "salary": 11
+        }
+      },
+      {
+        "name": "Jake Bernhardt",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Whipsnakes"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 1,
+          "twoPointGoals": 0,
+          "turnovers": 2,
+          "groundBalls": 3,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 1,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 14,
+          "weekPts": 0,
+          "avgPPG": 1.8,
+          "salary": 14
+        }
+      },
+      {
+        "name": "CJ Costabile",
+        "position": "LSM",
+        "currentTeam": {
+          "fullName": "Chaos"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 1,
+          "assists": 0,
+          "twoPointGoals": 2,
+          "turnovers": 5,
+          "groundBalls": 13,
+          "causedTurnovers": 3,
+          "faceoffsWon": 0,
+          "faceoffsLost": 4,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 127.4,
+          "weekPts": 1,
+          "avgPPG": 12.7,
+          "salary": 22
+        }
+      },
+      {
+        "name": "JT Giles-Harris",
+        "position": "D",
+        "currentTeam": {
+          "fullName": "Chrome"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 1,
+          "groundBalls": 11,
+          "causedTurnovers": 7,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 127,
+          "weekPts": 1,
+          "avgPPG": 12.7,
+          "salary": 19
+        }
+      },
+      {
+        "name": "Asher Nolting",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Cannons"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 21,
+          "assists": 20,
+          "twoPointGoals": 0,
+          "turnovers": 16,
+          "groundBalls": 16,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 180,
+          "weekPts": 52,
+          "avgPPG": 18,
+          "salary": 24
+        }
+      },
+      {
+        "name": "Jonathan Donville",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Cannons"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 12,
+          "assists": 11,
+          "twoPointGoals": 0,
+          "turnovers": 6,
+          "groundBalls": 10,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 93,
+          "weekPts": 18,
+          "avgPPG": 15.5,
+          "salary": 11
+        }
+      },
+      {
+        "name": "Ryan McNulty",
+        "position": "LSM",
+        "currentTeam": {
+          "fullName": "Chaos"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 0,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 8
+        }
+      },
+      {
+        "name": "Justin Inacio",
+        "position": "FO",
+        "currentTeam": {
+          "fullName": "Archers"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 0,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 9.6,
+          "weekPts": 0,
+          "avgPPG": 1.2,
+          "salary": 6
+        }
+      },
+      {
+        "name": "Zach Currier",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Waterdogs"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 5,
+          "assists": 9,
+          "twoPointGoals": 0,
+          "turnovers": 10,
+          "groundBalls": 50,
+          "causedTurnovers": 7,
+          "faceoffsWon": 34,
+          "faceoffsLost": 24,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 241.4,
+          "weekPts": 57.8,
+          "avgPPG": 24.1,
+          "salary": 30
+        }
+      },
+      {
+        "name": "Nick Grill",
+        "position": "LSM",
+        "currentTeam": {
+          "fullName": "Chrome"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 1,
+          "twoPointGoals": 0,
+          "turnovers": 1,
+          "groundBalls": 12,
+          "causedTurnovers": 6,
+          "faceoffsWon": 0,
+          "faceoffsLost": 3,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 59,
+          "weekPts": 10,
+          "avgPPG": 5.9,
+          "salary": 15
+        }
+      },
+      {
+        "name": "Kyle Bernlohr",
+        "position": "G",
+        "currentTeam": {
+          "fullName": "Whipsnakes"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 1,
+          "twoPointGoals": 0,
+          "turnovers": 2,
+          "groundBalls": 18,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 73,
+          "goalsAgainst": 64,
+          "twoPointGoalsAgainst": 4
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 342,
+          "weekPts": 36,
+          "avgPPG": 34.2,
+          "salary": 36
+        }
+      },
+      {
+        "name": "Jack Concannon",
+        "position": "G",
+        "currentTeam": {
+          "fullName": "Atlas"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 5,
+          "groundBalls": 11,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 105,
+          "goalsAgainst": 107,
+          "twoPointGoalsAgainst": 11
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 280,
+          "weekPts": 12,
+          "avgPPG": 28,
+          "salary": 33
+        }
+      },
+      {
+        "name": "Mark Cockerton",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Atlas"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 1,
+          "groundBalls": 0,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 56,
+          "weekPts": 0,
+          "avgPPG": 18.7,
+          "salary": 8
+        }
+      },
+      {
+        "name": "Jake Pulver",
+        "position": "D",
+        "currentTeam": {
+          "fullName": "Cannons"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 2,
+          "groundBalls": 10,
+          "causedTurnovers": 1,
+          "faceoffsWon": 2,
+          "faceoffsLost": 26,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 134,
+          "weekPts": 0,
+          "avgPPG": 13.4,
+          "salary": 20
+        }
+      },
+      {
+        "name": "Jack Kielty",
+        "position": "D",
+        "currentTeam": {
+          "fullName": "Cannons"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 17,
+          "causedTurnovers": 11,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 75,
+          "weekPts": 12,
+          "avgPPG": 7.5,
+          "salary": 13
+        }
+      },
+      {
+        "name": "Finn Sullivan",
+        "position": "D",
+        "currentTeam": {
+          "fullName": "Cannons"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 1,
+          "groundBalls": 3,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 63,
+          "weekPts": -1,
+          "avgPPG": 10.5,
+          "salary": 17
+        }
+      },
+      {
+        "name": "Wes Berg",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Redwoods"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 21,
+          "assists": 2,
+          "twoPointGoals": 0,
+          "turnovers": 9,
+          "groundBalls": 21,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 67,
+          "weekPts": 45,
+          "avgPPG": 16.8,
+          "salary": 7
+        }
+      },
+      {
+        "name": "Mark Glicini",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Chaos"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 1,
+          "twoPointGoals": 0,
+          "turnovers": 1,
+          "groundBalls": 5,
+          "causedTurnovers": 2,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 44,
+          "weekPts": 10,
+          "avgPPG": 5.5,
+          "salary": 14
+        }
+      },
+      {
+        "name": "Johnny Surdick",
+        "position": "D",
+        "currentTeam": {
+          "fullName": "Chaos"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 1,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 5,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 10
+        }
+      },
+      {
+        "name": "Austin Kaut",
+        "position": "G",
+        "currentTeam": {
+          "fullName": "Chaos"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 1,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 15,
+          "goalsAgainst": 13,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 5
+        }
+      },
+      {
+        "name": "Josh Byrne",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Chaos"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 15,
+          "assists": 6,
+          "twoPointGoals": 0,
+          "turnovers": 15,
+          "groundBalls": 11,
+          "causedTurnovers": 2,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 194,
+          "weekPts": 0,
+          "avgPPG": 27.7,
+          "salary": 33
+        }
+      },
+      {
+        "name": "Jack Hannah",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Waterdogs"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 9,
+          "assists": 4,
+          "twoPointGoals": 3,
+          "turnovers": 8,
+          "groundBalls": 8,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 140,
+          "weekPts": -2,
+          "avgPPG": 14,
+          "salary": 17
+        }
+      },
+      {
+        "name": "Max Wayne",
+        "position": "D",
+        "currentTeam": {
+          "fullName": "Cannons"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 3,
+          "groundBalls": 22,
+          "causedTurnovers": 7,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 8
+        }
+      },
+      {
+        "name": "Jake Higgins",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Waterdogs"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 2,
+          "assists": 1,
+          "twoPointGoals": 0,
+          "turnovers": 6,
+          "groundBalls": 9,
+          "causedTurnovers": 5,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 67,
+          "weekPts": 8,
+          "avgPPG": 7.4,
+          "salary": 9
+        }
+      },
+      {
+        "name": "Alexander Smith",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Chrome"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 1,
+          "twoPointGoals": 0,
+          "turnovers": 2,
+          "groundBalls": 11,
+          "causedTurnovers": 2,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 10,
+          "avgPPG": 0,
+          "salary": 1
+        }
+      },
+      {
+        "name": "Grant Ammann",
+        "position": "D",
+        "currentTeam": {
+          "fullName": "Atlas"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 0,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 8
+        }
+      },
+      {
+        "name": "Ethan Rall",
+        "position": "LSM",
+        "currentTeam": {
+          "fullName": "Cannons"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 1,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 3,
+          "groundBalls": 30,
+          "causedTurnovers": 20,
+          "faceoffsWon": 6,
+          "faceoffsLost": 101,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 1
+        }
+      },
+      {
+        "name": "Josh Stout",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Cannons"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 0,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 1
+        }
+      },
+      {
+        "name": "Jarrod Neumann",
+        "position": "D",
+        "currentTeam": {
+          "fullName": "Chaos"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 1,
+          "turnovers": 1,
+          "groundBalls": 18,
+          "causedTurnovers": 4,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 74,
+          "weekPts": 1,
+          "avgPPG": 7.4,
+          "salary": 16
+        }
+      },
+      {
+        "name": "Dhane Smith",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Chaos"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 5,
+          "assists": 25,
+          "twoPointGoals": 0,
+          "turnovers": 25,
+          "groundBalls": 4,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 218,
+          "weekPts": 0,
+          "avgPPG": 31.1,
+          "salary": 25
+        }
+      },
+      {
+        "name": "Chase Fraser",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Chaos"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 4,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 4,
+          "groundBalls": 4,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 125,
+          "weekPts": 0,
+          "avgPPG": 17.9,
+          "salary": 13
+        }
+      },
+      {
+        "name": "Eli Salama",
+        "position": "LSM",
+        "currentTeam": {
+          "fullName": "Chrome"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 1,
+          "twoPointGoals": 1,
+          "turnovers": 7,
+          "groundBalls": 13,
+          "causedTurnovers": 6,
+          "faceoffsWon": 0,
+          "faceoffsLost": 28,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 124,
+          "weekPts": 12,
+          "avgPPG": 12.4,
+          "salary": 22
+        }
+      },
+      {
+        "name": "Michael Manley",
+        "position": "D",
+        "currentTeam": {
+          "fullName": "Chrome"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 2,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 6,
+          "groundBalls": 25,
+          "causedTurnovers": 8,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 179,
+          "weekPts": 10,
+          "avgPPG": 17.9,
+          "salary": 28
+        }
+      },
+      {
+        "name": "Will Haus",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Chrome"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 1,
+          "assists": 1,
+          "twoPointGoals": 0,
+          "turnovers": 1,
+          "groundBalls": 6,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 101,
+          "weekPts": 13,
+          "avgPPG": 10.1,
+          "salary": 21
+        }
+      },
+      {
+        "name": "Nick Washuta",
+        "position": "G",
+        "currentTeam": {
+          "fullName": "Archers"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 1,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 14,
+          "goalsAgainst": 13,
+          "twoPointGoalsAgainst": 2
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": -1,
+          "avgPPG": 0,
+          "salary": 1
+        }
+      },
+      {
+        "name": "Justin Anderson",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Chrome"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 9,
+          "assists": 1,
+          "twoPointGoals": 0,
+          "turnovers": 10,
+          "groundBalls": 2,
+          "causedTurnovers": 3,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 215,
+          "weekPts": 39,
+          "avgPPG": 21.5,
+          "salary": 23
+        }
+      },
+      {
+        "name": "Connor Farrell",
+        "position": "FO",
+        "currentTeam": {
+          "fullName": "Chrome"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 16,
+          "groundBalls": 79,
+          "causedTurnovers": 2,
+          "faceoffsWon": 103,
+          "faceoffsLost": 64,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 98,
+          "weekPts": 4.6,
+          "avgPPG": 9.8,
+          "salary": 18
+        }
+      },
+      {
+        "name": "Ryan Terefenko",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Chrome"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 3,
+          "assists": 2,
+          "twoPointGoals": 0,
+          "turnovers": 8,
+          "groundBalls": 14,
+          "causedTurnovers": 2,
+          "faceoffsWon": 0,
+          "faceoffsLost": 2,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 120,
+          "weekPts": 20,
+          "avgPPG": 12,
+          "salary": 22
+        }
+      },
+      {
+        "name": "Jesse Bernhardt",
+        "position": "D",
+        "currentTeam": {
+          "fullName": "Chrome"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 4,
+          "twoPointGoals": 0,
+          "turnovers": 1,
+          "groundBalls": 20,
+          "causedTurnovers": 11,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 95,
+          "weekPts": 23,
+          "avgPPG": 9.5,
+          "salary": 18
+        }
+      },
+      {
+        "name": "Sean Sconone",
+        "position": "G",
+        "currentTeam": {
+          "fullName": "Chrome"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 7,
+          "groundBalls": 15,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 107,
+          "goalsAgainst": 97,
+          "twoPointGoalsAgainst": 9
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 289,
+          "weekPts": 33,
+          "avgPPG": 28.9,
+          "salary": 35
+        }
+      },
+      {
+        "name": "Greg Weyl",
+        "position": "D",
+        "currentTeam": {
+          "fullName": "Chrome"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 1,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 4,
+          "causedTurnovers": 2,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 1
+        }
+      },
+      {
+        "name": "Kevin Rogers",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Redwoods"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 2,
+          "assists": 2,
+          "twoPointGoals": 0,
+          "turnovers": 1,
+          "groundBalls": 2,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 54,
+          "weekPts": 0,
+          "avgPPG": 10.8,
+          "salary": 7
+        }
+      },
+      {
+        "name": "Tim Troutner",
+        "position": "G",
+        "currentTeam": {
+          "fullName": "Redwoods"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 0,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 55,
+          "weekPts": 0,
+          "avgPPG": 13.8,
+          "salary": 7
+        }
+      },
+      {
+        "name": "Matt Kavanagh",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Cannons"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 14,
+          "assists": 10,
+          "twoPointGoals": 0,
+          "turnovers": 13,
+          "groundBalls": 16,
+          "causedTurnovers": 4,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 119,
+          "weekPts": 24,
+          "avgPPG": 11.9,
+          "salary": 12
+        }
+      },
+      {
+        "name": "Eddy Glazener",
+        "position": "D",
+        "currentTeam": {
+          "fullName": "Redwoods"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 1,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 4,
+          "groundBalls": 15,
+          "causedTurnovers": 9,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 154,
+          "weekPts": 32,
+          "avgPPG": 17.1,
+          "salary": 30
+        }
+      },
+      {
+        "name": "Mikie Schlosser",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Waterdogs"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 0,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 45,
+          "weekPts": 0,
+          "avgPPG": 7.5,
+          "salary": 7
+        }
+      },
+      {
+        "name": "Nakeie Montgomery",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Redwoods"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 2,
+          "assists": 5,
+          "twoPointGoals": 1,
+          "turnovers": 9,
+          "groundBalls": 17,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 127,
+          "weekPts": 41,
+          "avgPPG": 12.7,
+          "salary": 13
+        }
+      },
+      {
+        "name": "Keegan Khan",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Whipsnakes"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 5,
+          "assists": 2,
+          "twoPointGoals": 0,
+          "turnovers": 2,
+          "groundBalls": 4,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 71,
+          "weekPts": 17,
+          "avgPPG": 10.1,
+          "salary": 8
+        }
+      },
+      {
+        "name": "Matt Whitcher",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Waterdogs"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 5,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 2,
+          "groundBalls": 23,
+          "causedTurnovers": 8,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 78,
+          "weekPts": 12,
+          "avgPPG": 7.8,
+          "salary": 12
+        }
+      },
+      {
+        "name": "Mike Chanenchuk",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Whipsnakes"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 14,
+          "assists": 7,
+          "twoPointGoals": 3,
+          "turnovers": 6,
+          "groundBalls": 6,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 205,
+          "weekPts": 50,
+          "avgPPG": 20.5,
+          "salary": 24
+        }
+      },
+      {
+        "name": "Jack Myers",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Chrome"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 1,
+          "assists": 1,
+          "twoPointGoals": 0,
+          "turnovers": 2,
+          "groundBalls": 0,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 11
+        }
+      },
+      {
+        "name": "Rob Pannell",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Redwoods"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 15,
+          "assists": 19,
+          "twoPointGoals": 0,
+          "turnovers": 39,
+          "groundBalls": 24,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 365,
+          "weekPts": 44,
+          "avgPPG": 36.5,
+          "salary": 38
+        }
+      },
+      {
+        "name": "TD Ierlan",
+        "position": "FO",
+        "currentTeam": {
+          "fullName": "Redwoods"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 1,
+          "assists": 1,
+          "twoPointGoals": 0,
+          "turnovers": 5,
+          "groundBalls": 118,
+          "causedTurnovers": 3,
+          "faceoffsWon": 162,
+          "faceoffsLost": 77,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 120,
+          "weekPts": 15,
+          "avgPPG": 12,
+          "salary": 26
+        }
+      },
+      {
+        "name": "Jules Heningburg",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Redwoods"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 7,
+          "assists": 6,
+          "twoPointGoals": 0,
+          "turnovers": 13,
+          "groundBalls": 7,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 181,
+          "weekPts": 17,
+          "avgPPG": 22.6,
+          "salary": 22
+        }
+      },
+      {
+        "name": "Sergio Perkovic",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Redwoods"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 5,
+          "groundBalls": 6,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 146,
+          "weekPts": -3,
+          "avgPPG": 16.2,
+          "salary": 16
+        }
+      },
+      {
+        "name": "Tyler Warner",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Whipsnakes"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 1,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 2,
+          "groundBalls": 12,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 71,
+          "weekPts": 5,
+          "avgPPG": 7.9,
+          "salary": 21
+        }
+      },
+      {
+        "name": "Charlie Bertrand",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Redwoods"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 7,
+          "assists": 5,
+          "twoPointGoals": 0,
+          "turnovers": 13,
+          "groundBalls": 8,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 163,
+          "weekPts": 10,
+          "avgPPG": 16.3,
+          "salary": 27
+        }
+      },
+      {
+        "name": "Ryan Conrad",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Waterdogs"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 6,
+          "assists": 4,
+          "twoPointGoals": 1,
+          "turnovers": 9,
+          "groundBalls": 4,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 185,
+          "weekPts": 7,
+          "avgPPG": 23.1,
+          "salary": 29
+        }
+      },
+      {
+        "name": "Chris Sabia",
+        "position": "LSM",
+        "currentTeam": {
+          "fullName": "Waterdogs"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 1,
+          "groundBalls": 12,
+          "causedTurnovers": 5,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 118,
+          "weekPts": 0,
+          "avgPPG": 13.1,
+          "salary": 17
+        }
+      },
+      {
+        "name": "Ryland Rees",
+        "position": "LSM",
+        "currentTeam": {
+          "fullName": "Waterdogs"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 1,
+          "assists": 1,
+          "twoPointGoals": 0,
+          "turnovers": 2,
+          "groundBalls": 11,
+          "causedTurnovers": 8,
+          "faceoffsWon": 0,
+          "faceoffsLost": 2,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 138,
+          "weekPts": 0,
+          "avgPPG": 15.3,
+          "salary": 23
+        }
+      },
+      {
+        "name": "Liam Byrnes",
+        "position": "D",
+        "currentTeam": {
+          "fullName": "Waterdogs"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 2,
+          "twoPointGoals": 0,
+          "turnovers": 4,
+          "groundBalls": 25,
+          "causedTurnovers": 7,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 161,
+          "weekPts": 20,
+          "avgPPG": 16.1,
+          "salary": 27
+        }
+      },
+      {
+        "name": "Jesse King",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Chrome"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 3,
+          "assists": 5,
+          "twoPointGoals": 0,
+          "turnovers": 9,
+          "groundBalls": 2,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 1
+        }
+      },
+      {
+        "name": "Charlie Hayes",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Waterdogs"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 2,
+          "assists": 2,
+          "twoPointGoals": 0,
+          "turnovers": 2,
+          "groundBalls": 15,
+          "causedTurnovers": 6,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 6
+        }
+      },
+      {
+        "name": "Brad Smith",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Whipsnakes"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 4,
+          "assists": 5,
+          "twoPointGoals": 1,
+          "turnovers": 7,
+          "groundBalls": 6,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 207,
+          "weekPts": 0,
+          "avgPPG": 20.7,
+          "salary": 28
+        }
+      },
+      {
+        "name": "Michael Ehrhardt",
+        "position": "LSM",
+        "currentTeam": {
+          "fullName": "Whipsnakes"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 4,
+          "assists": 2,
+          "twoPointGoals": 1,
+          "turnovers": 4,
+          "groundBalls": 16,
+          "causedTurnovers": 6,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 199,
+          "weekPts": 17,
+          "avgPPG": 22.1,
+          "salary": 33
+        }
+      },
+      {
+        "name": "Brian Phipps",
+        "position": "G",
+        "currentTeam": {
+          "fullName": "Whipsnakes"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 0,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 9,
+          "goalsAgainst": 12,
+          "twoPointGoalsAgainst": 1
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 5
+        }
+      },
+      {
+        "name": "Matthew Dunn",
+        "position": "D",
+        "currentTeam": {
+          "fullName": "Whipsnakes"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 1,
+          "twoPointGoals": 0,
+          "turnovers": 2,
+          "groundBalls": 14,
+          "causedTurnovers": 8,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 55,
+          "weekPts": 1,
+          "avgPPG": 5.5,
+          "salary": 13
+        }
+      },
+      {
+        "name": "Connor Kirst",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Whipsnakes"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 6,
+          "assists": 1,
+          "twoPointGoals": 1,
+          "turnovers": 5,
+          "groundBalls": 25,
+          "causedTurnovers": 3,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 151,
+          "weekPts": 23,
+          "avgPPG": 15.1,
+          "salary": 31
+        }
+      },
+      {
+        "name": "Brett Kennedy",
+        "position": "LSM",
+        "currentTeam": {
+          "fullName": "Whipsnakes"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 1,
+          "twoPointGoals": 0,
+          "turnovers": 3,
+          "groundBalls": 7,
+          "causedTurnovers": 4,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 15,
+          "weekPts": 0,
+          "avgPPG": 3,
+          "salary": 11
+        }
+      },
+      {
+        "name": "Sam Handley",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Chrome"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 9,
+          "assists": 3,
+          "twoPointGoals": 1,
+          "turnovers": 15,
+          "groundBalls": 7,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 29,
+          "avgPPG": 0,
+          "salary": 20
+        }
+      },
+      {
+        "name": "Cross Ferrara",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Chrome"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 12,
+          "assists": 2,
+          "twoPointGoals": 0,
+          "turnovers": 11,
+          "groundBalls": 8,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 38,
+          "avgPPG": 0,
+          "salary": 10
+        }
+      },
+      {
+        "name": "Owen Grant",
+        "position": "LSM",
+        "currentTeam": {
+          "fullName": "Redwoods"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 1,
+          "turnovers": 1,
+          "groundBalls": 2,
+          "causedTurnovers": 3,
+          "faceoffsWon": 0,
+          "faceoffsLost": 3,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 22
+        }
+      },
+      {
+        "name": "Joseph Nardella",
+        "position": "FO",
+        "currentTeam": {
+          "fullName": "Whipsnakes"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 0,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 157,
+          "weekPts": 0,
+          "avgPPG": 15.7,
+          "salary": 28
+        }
+      },
+      {
+        "name": "Cole Williams",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Chrome"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 1,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 6,
+          "groundBalls": 0,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 72,
+          "weekPts": 0,
+          "avgPPG": 18,
+          "salary": 8
+        }
+      },
+      {
+        "name": "James Reilly",
+        "position": "FO",
+        "currentTeam": {
+          "fullName": "Waterdogs"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 4,
+          "causedTurnovers": 0,
+          "faceoffsWon": 14,
+          "faceoffsLost": 23,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 12
+        }
+      },
+      {
+        "name": "Colin Heacock",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Chrome"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 2,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 3,
+          "groundBalls": 3,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 46,
+          "weekPts": 7,
+          "avgPPG": 4.6,
+          "salary": 7
+        }
+      },
+      {
+        "name": "Xander Dickson",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Atlas"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 14,
+          "assists": 6,
+          "twoPointGoals": 0,
+          "turnovers": 16,
+          "groundBalls": 11,
+          "causedTurnovers": 3,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 34,
+          "avgPPG": 0,
+          "salary": 10
+        }
+      },
+      {
+        "name": "Reid Bowering",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Archers"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 0,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 1
+        }
+      },
+      {
+        "name": "Mike Messenger",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Chrome"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 4,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 3,
+          "groundBalls": 7,
+          "causedTurnovers": 4,
+          "faceoffsWon": 4,
+          "faceoffsLost": 6,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 123.2,
+          "weekPts": -0.2,
+          "avgPPG": 12.3,
+          "salary": 24
+        }
+      },
+      {
+        "name": "Drake Porter",
+        "position": "G",
+        "currentTeam": {
+          "fullName": "Atlas"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 1,
+          "groundBalls": 2,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 17,
+          "goalsAgainst": 22,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 1
+        }
+      },
+      {
+        "name": "Logan Wisnauskas",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Chrome"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 11,
+          "assists": 7,
+          "twoPointGoals": 0,
+          "turnovers": 17,
+          "groundBalls": 18,
+          "causedTurnovers": 3,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 349,
+          "weekPts": 10,
+          "avgPPG": 38.8,
+          "salary": 38
+        }
+      },
+      {
+        "name": "Chris Gray",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Atlas"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 20,
+          "assists": 13,
+          "twoPointGoals": 2,
+          "turnovers": 23,
+          "groundBalls": 14,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 313,
+          "weekPts": 20,
+          "avgPPG": 31.3,
+          "salary": 37
+        }
+      },
+      {
+        "name": "Arden Cohen",
+        "position": "D",
+        "currentTeam": {
+          "fullName": "Redwoods"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 1,
+          "turnovers": 5,
+          "groundBalls": 12,
+          "causedTurnovers": 6,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 41,
+          "weekPts": 9,
+          "avgPPG": 4.1,
+          "salary": 14
+        }
+      },
+      {
+        "name": "Matt Moore",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Archers"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 10,
+          "assists": 6,
+          "twoPointGoals": 0,
+          "turnovers": 10,
+          "groundBalls": 14,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 174,
+          "weekPts": 7,
+          "avgPPG": 17.4,
+          "salary": 23
+        }
+      },
+      {
+        "name": "Koby Smith",
+        "position": "LSM",
+        "currentTeam": {
+          "fullName": "Atlas"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 1,
+          "turnovers": 2,
+          "groundBalls": 3,
+          "causedTurnovers": 2,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 89,
+          "weekPts": 0,
+          "avgPPG": 8.9,
+          "salary": 15
+        }
+      },
+      {
+        "name": "Bubba Fairman",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Cannons"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 5,
+          "twoPointGoals": 0,
+          "turnovers": 1,
+          "groundBalls": 9,
+          "causedTurnovers": 15,
+          "faceoffsWon": 0,
+          "faceoffsLost": 1,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 73,
+          "weekPts": 10,
+          "avgPPG": 8.1,
+          "salary": 9
+        }
+      },
+      {
+        "name": "Brett Dobson",
+        "position": "G",
+        "currentTeam": {
+          "fullName": "Archers"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 1,
+          "groundBalls": 19,
+          "causedTurnovers": 3,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 123,
+          "goalsAgainst": 89,
+          "twoPointGoalsAgainst": 7
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 33,
+          "weekPts": 44,
+          "avgPPG": 33,
+          "salary": 6
+        }
+      },
+      {
+        "name": "Brendan Curry",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Atlas"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 5,
+          "assists": 4,
+          "twoPointGoals": 0,
+          "turnovers": 4,
+          "groundBalls": 5,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 5,
+          "weekPts": 8,
+          "avgPPG": 1.7,
+          "salary": 5
+        }
+      },
+      {
+        "name": "Dillon Ward",
+        "position": "G",
+        "currentTeam": {
+          "fullName": "Waterdogs"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 2,
+          "groundBalls": 4,
+          "causedTurnovers": 2,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 85,
+          "goalsAgainst": 54,
+          "twoPointGoalsAgainst": 3
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 219,
+          "weekPts": 0,
+          "avgPPG": 36.5,
+          "salary": 34
+        }
+      },
+      {
+        "name": "Connor Kelly",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Waterdogs"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 6,
+          "assists": 1,
+          "twoPointGoals": 5,
+          "turnovers": 10,
+          "groundBalls": 7,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 240,
+          "weekPts": 27,
+          "avgPPG": 24,
+          "salary": 26
+        }
+      },
+      {
+        "name": "Zed Williams",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Whipsnakes"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 15,
+          "assists": 7,
+          "twoPointGoals": 0,
+          "turnovers": 13,
+          "groundBalls": 10,
+          "causedTurnovers": 2,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 169,
+          "weekPts": 0,
+          "avgPPG": 24.1,
+          "salary": 25
+        }
+      },
+      {
+        "name": "Colin Squires",
+        "position": "LSM",
+        "currentTeam": {
+          "fullName": "Whipsnakes"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 1,
+          "twoPointGoals": 1,
+          "turnovers": 0,
+          "groundBalls": 11,
+          "causedTurnovers": 7,
+          "faceoffsWon": 2,
+          "faceoffsLost": 21,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 58.8,
+          "weekPts": 18.8,
+          "avgPPG": 5.9,
+          "salary": 17
+        }
+      },
+      {
+        "name": "Colin Kirst",
+        "position": "G",
+        "currentTeam": {
+          "fullName": "Cannons"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 1,
+          "twoPointGoals": 0,
+          "turnovers": 7,
+          "groundBalls": 20,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 113,
+          "goalsAgainst": 87,
+          "twoPointGoalsAgainst": 5
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 15,
+          "weekPts": 9,
+          "avgPPG": 7.5,
+          "salary": 6
+        }
+      },
+      {
+        "name": "Owen McElroy",
+        "position": "G",
+        "currentTeam": {
+          "fullName": "Chrome"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 1,
+          "groundBalls": 6,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 13,
+          "goalsAgainst": 13,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 5
+        }
+      },
+      {
+        "name": "Jon Robbins",
+        "position": "LSM",
+        "currentTeam": {
+          "fullName": "Archers"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 1,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 1,
+          "groundBalls": 7,
+          "causedTurnovers": 5,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 100,
+          "weekPts": 22,
+          "avgPPG": 11.1,
+          "salary": 16
+        }
+      },
+      {
+        "name": "Ryan Aughavin",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Archers"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 2,
+          "assists": 0,
+          "twoPointGoals": 1,
+          "turnovers": 0,
+          "groundBalls": 3,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 31,
+          "weekPts": 0,
+          "avgPPG": 15.5,
+          "salary": 6
+        }
+      },
+      {
+        "name": "Colin Hinton",
+        "position": "D",
+        "currentTeam": {
+          "fullName": "Whipsnakes"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 0,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 9
+        }
+      },
+      {
+        "name": "Kevin Lindley",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Chaos"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 1,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 1,
+          "groundBalls": 2,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 1
+        }
+      },
+      {
+        "name": "Chet Comizio",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Atlas"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 1,
+          "assists": 2,
+          "twoPointGoals": 0,
+          "turnovers": 2,
+          "groundBalls": 15,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 1
+        }
+      },
+      {
+        "name": "Will Manny",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Whipsnakes"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 14,
+          "assists": 16,
+          "twoPointGoals": 1,
+          "turnovers": 11,
+          "groundBalls": 15,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 284,
+          "weekPts": 33,
+          "avgPPG": 28.4,
+          "salary": 31
+        }
+      },
+      {
+        "name": "Connor Fields",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Archers"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 28,
+          "assists": 11,
+          "twoPointGoals": 0,
+          "turnovers": 17,
+          "groundBalls": 15,
+          "causedTurnovers": 4,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 167,
+          "weekPts": 44,
+          "avgPPG": 27.8,
+          "salary": 28
+        }
+      },
+      {
+        "name": "Graeme Hossack",
+        "position": "D",
+        "currentTeam": {
+          "fullName": "Archers"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 1,
+          "twoPointGoals": 0,
+          "turnovers": 2,
+          "groundBalls": 35,
+          "causedTurnovers": 8,
+          "faceoffsWon": 3,
+          "faceoffsLost": 13,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 127,
+          "weekPts": 1,
+          "avgPPG": 12.7,
+          "salary": 22
+        }
+      },
+      {
+        "name": "Dox Aitken",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Atlas"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 0,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 94,
+          "weekPts": 0,
+          "avgPPG": 11.8,
+          "salary": 11
+        }
+      },
+      {
+        "name": "Jeff Teat",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Atlas"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 11,
+          "assists": 25,
+          "twoPointGoals": 0,
+          "turnovers": 21,
+          "groundBalls": 15,
+          "causedTurnovers": 3,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 352,
+          "weekPts": 65,
+          "avgPPG": 35.2,
+          "salary": 39
+        }
+      },
+      {
+        "name": "Trevor Baptiste",
+        "position": "FO",
+        "currentTeam": {
+          "fullName": "Atlas"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 5,
+          "assists": 2,
+          "twoPointGoals": 0,
+          "turnovers": 15,
+          "groundBalls": 168,
+          "causedTurnovers": 1,
+          "faceoffsWon": 212,
+          "faceoffsLost": 61,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 247.4,
+          "weekPts": 5.2,
+          "avgPPG": 27.5,
+          "salary": 32
+        }
+      },
+      {
+        "name": "Payton Rezanka",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Atlas"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 0,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 9
+        }
+      },
+      {
+        "name": "Brian Minicus",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Chaos"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 15,
+          "assists": 9,
+          "twoPointGoals": 0,
+          "turnovers": 24,
+          "groundBalls": 21,
+          "causedTurnovers": 2,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 3,
+          "avgPPG": 0,
+          "salary": 7
+        }
+      },
+      {
+        "name": "Ryan Lee",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Redwoods"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 0,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 5
+        }
+      },
+      {
+        "name": "John Sexton",
+        "position": "LSM",
+        "currentTeam": {
+          "fullName": "Redwoods"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 1,
+          "assists": 1,
+          "twoPointGoals": 0,
+          "turnovers": 3,
+          "groundBalls": 13,
+          "causedTurnovers": 4,
+          "faceoffsWon": 0,
+          "faceoffsLost": 2,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 44,
+          "weekPts": -2,
+          "avgPPG": 6.3,
+          "salary": 13
+        }
+      },
+      {
+        "name": "Ryder Garnsey",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Redwoods"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 25,
+          "assists": 11,
+          "twoPointGoals": 0,
+          "turnovers": 15,
+          "groundBalls": 17,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 223,
+          "weekPts": 66,
+          "avgPPG": 22.3,
+          "salary": 32
+        }
+      },
+      {
+        "name": "Garrett Epple",
+        "position": "D",
+        "currentTeam": {
+          "fullName": "Redwoods"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 1,
+          "twoPointGoals": 0,
+          "turnovers": 6,
+          "groundBalls": 26,
+          "causedTurnovers": 18,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 205,
+          "weekPts": 34,
+          "avgPPG": 20.5,
+          "salary": 31
+        }
+      },
+      {
+        "name": "Jack Kelly",
+        "position": "G",
+        "currentTeam": {
+          "fullName": "Redwoods"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 5,
+          "groundBalls": 16,
+          "causedTurnovers": 6,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 121,
+          "goalsAgainst": 111,
+          "twoPointGoalsAgainst": 8
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 177,
+          "weekPts": 41,
+          "avgPPG": 25.3,
+          "salary": 23
+        }
+      },
+      {
+        "name": "Matt DeLuca",
+        "position": "G",
+        "currentTeam": {
+          "fullName": "Waterdogs"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 5,
+          "causedTurnovers": 3,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 58,
+          "goalsAgainst": 58,
+          "twoPointGoalsAgainst": 3
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 89,
+          "weekPts": 28,
+          "avgPPG": 14.8,
+          "salary": 9
+        }
+      },
+      {
+        "name": "Kieran McArdle",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Waterdogs"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 20,
+          "assists": 14,
+          "twoPointGoals": 0,
+          "turnovers": 24,
+          "groundBalls": 17,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 377,
+          "weekPts": 33,
+          "avgPPG": 37.7,
+          "salary": 39
+        }
+      },
+      {
+        "name": "Justin Guterding",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Atlas"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 1,
+          "twoPointGoals": 0,
+          "turnovers": 1,
+          "groundBalls": 4,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 168,
+          "weekPts": 0,
+          "avgPPG": 24,
+          "salary": 18
+        }
+      },
+      {
+        "name": "Elijah Gash",
+        "position": "D",
+        "currentTeam": {
+          "fullName": "Whipsnakes"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 0,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 8
+        }
+      },
+      {
+        "name": "Michael Rexrode",
+        "position": "D",
+        "currentTeam": {
+          "fullName": "Atlas"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 2,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 3,
+          "groundBalls": 22,
+          "causedTurnovers": 9,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 78,
+          "weekPts": 3,
+          "avgPPG": 7.8,
+          "salary": 18
+        }
+      },
+      {
+        "name": "Bryan Costabile",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Atlas"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 14,
+          "assists": 5,
+          "twoPointGoals": 1,
+          "turnovers": 19,
+          "groundBalls": 20,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 205,
+          "weekPts": 13,
+          "avgPPG": 20.5,
+          "salary": 27
+        }
+      },
+      {
+        "name": "Ben Randall",
+        "position": "D",
+        "currentTeam": {
+          "fullName": "Waterdogs"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 1,
+          "turnovers": 4,
+          "groundBalls": 27,
+          "causedTurnovers": 10,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 120,
+          "weekPts": 23,
+          "avgPPG": 12,
+          "salary": 17
+        }
+      },
+      {
+        "name": "Christian Scarpello",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Waterdogs"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 1,
+          "assists": 1,
+          "twoPointGoals": 0,
+          "turnovers": 1,
+          "groundBalls": 17,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 58,
+          "weekPts": 0,
+          "avgPPG": 9.7,
+          "salary": 7
+        }
+      },
+      {
+        "name": "Ethan Walker",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Waterdogs"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 16,
+          "assists": 14,
+          "twoPointGoals": 0,
+          "turnovers": 7,
+          "groundBalls": 20,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 131,
+          "weekPts": 13,
+          "avgPPG": 14.6,
+          "salary": 21
+        }
+      },
+      {
+        "name": "John Geppert",
+        "position": "LSM",
+        "currentTeam": {
+          "fullName": "Atlas"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 2,
+          "groundBalls": 7,
+          "causedTurnovers": 4,
+          "faceoffsWon": 0,
+          "faceoffsLost": 1,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 1
+        }
+      },
+      {
+        "name": "Jeff Conner",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Waterdogs"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 2,
+          "assists": 2,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 1,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 1
+        }
+      },
+      {
+        "name": "Jack Traynor",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Waterdogs"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 0,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 1
+        }
+      },
+      {
+        "name": "Grayson Sallade",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Whipsnakes"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 2,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 1
+        }
+      },
+      {
+        "name": "Marcus Holman",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Cannons"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 29,
+          "assists": 13,
+          "twoPointGoals": 1,
+          "turnovers": 19,
+          "groundBalls": 24,
+          "causedTurnovers": 4,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 280,
+          "weekPts": 48,
+          "avgPPG": 28,
+          "salary": 36
+        }
+      },
+      {
+        "name": "Adam Ghitelman",
+        "position": "G",
+        "currentTeam": {
+          "fullName": "Cannons"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 6,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 22,
+          "goalsAgainst": 26,
+          "twoPointGoalsAgainst": 1
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 240,
+          "weekPts": 30,
+          "avgPPG": 26.7,
+          "salary": 34
+        }
+      },
+      {
+        "name": "Ryan Ambler",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Archers"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 7,
+          "assists": 4,
+          "twoPointGoals": 0,
+          "turnovers": 11,
+          "groundBalls": 7,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 143,
+          "weekPts": 10,
+          "avgPPG": 14.3,
+          "salary": 20
+        }
+      },
+      {
+        "name": "Grant Ament",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Archers"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 4,
+          "assists": 9,
+          "twoPointGoals": 0,
+          "turnovers": 9,
+          "groundBalls": 9,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 153,
+          "weekPts": 31,
+          "avgPPG": 30.6,
+          "salary": 35
+        }
+      },
+      {
+        "name": "Latrell Harris",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Archers"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 2,
+          "assists": 2,
+          "twoPointGoals": 0,
+          "turnovers": 2,
+          "groundBalls": 19,
+          "causedTurnovers": 6,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 74,
+          "weekPts": 25,
+          "avgPPG": 7.4,
+          "salary": 19
+        }
+      },
+      {
+        "name": "Stephen Kelly",
+        "position": "FO",
+        "currentTeam": {
+          "fullName": "Cannons"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 1,
+          "twoPointGoals": 0,
+          "turnovers": 4,
+          "groundBalls": 23,
+          "causedTurnovers": 1,
+          "faceoffsWon": 35,
+          "faceoffsLost": 52,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 69.8,
+          "weekPts": 1.4,
+          "avgPPG": 7.8,
+          "salary": 12
+        }
+      },
+      {
+        "name": "Tom Schreiber",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Archers"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 16,
+          "assists": 17,
+          "twoPointGoals": 2,
+          "turnovers": 14,
+          "groundBalls": 20,
+          "causedTurnovers": 2,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 302,
+          "weekPts": 40,
+          "avgPPG": 30.2,
+          "salary": 35
+        }
+      },
+      {
+        "name": "Warren Jeffrey",
+        "position": "D",
+        "currentTeam": {
+          "fullName": "Archers"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 1,
+          "twoPointGoals": 0,
+          "turnovers": 3,
+          "groundBalls": 9,
+          "causedTurnovers": 7,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 6
+        }
+      },
+      {
+        "name": "Jared Conners",
+        "position": "LSM",
+        "currentTeam": {
+          "fullName": "Archers"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 1,
+          "twoPointGoals": 2,
+          "turnovers": 7,
+          "groundBalls": 18,
+          "causedTurnovers": 9,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 99,
+          "weekPts": 8,
+          "avgPPG": 9.9,
+          "salary": 15
+        }
+      },
+      {
+        "name": "Jeff Trainor",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Cannons"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 2,
+          "assists": 2,
+          "twoPointGoals": 0,
+          "turnovers": 3,
+          "groundBalls": 9,
+          "causedTurnovers": 5,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 85,
+          "weekPts": 1,
+          "avgPPG": 17,
+          "salary": 8
+        }
+      },
+      {
+        "name": "Tre Leclaire",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Archers"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 13,
+          "assists": 4,
+          "twoPointGoals": 1,
+          "turnovers": 10,
+          "groundBalls": 16,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 95,
+          "weekPts": 30,
+          "avgPPG": 10.6,
+          "salary": 12
+        }
+      },
+      {
+        "name": "Matt McMahon",
+        "position": "D",
+        "currentTeam": {
+          "fullName": "Archers"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 2,
+          "groundBalls": 17,
+          "causedTurnovers": 5,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 106,
+          "weekPts": 12,
+          "avgPPG": 10.6,
+          "salary": 14
+        }
+      },
+      {
+        "name": "Challen Rogers",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Archers"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 3,
+          "assists": 1,
+          "twoPointGoals": 0,
+          "turnovers": 9,
+          "groundBalls": 5,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 117,
+          "weekPts": 0,
+          "avgPPG": 16.7,
+          "salary": 16
+        }
+      },
+      {
+        "name": "Eric Law",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Atlas"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 22,
+          "assists": 5,
+          "twoPointGoals": 0,
+          "turnovers": 15,
+          "groundBalls": 14,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 242,
+          "weekPts": 51,
+          "avgPPG": 24.2,
+          "salary": 34
+        }
+      },
+      {
+        "name": "Jake Carraway",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Waterdogs"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 9,
+          "assists": 2,
+          "twoPointGoals": 2,
+          "turnovers": 3,
+          "groundBalls": 6,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 11,
+          "weekPts": 10,
+          "avgPPG": 5.5,
+          "salary": 5
+        }
+      },
+      {
+        "name": "Charlie Kitchen",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Waterdogs"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 0,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 10,
+          "weekPts": 0,
+          "avgPPG": 10,
+          "salary": 5
+        }
+      },
+      {
+        "name": "Pat Aslanian",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Cannons"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 1,
+          "twoPointGoals": 0,
+          "turnovers": 5,
+          "groundBalls": 2,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 17,
+          "weekPts": -3,
+          "avgPPG": 5.7,
+          "salary": 8
+        }
+      },
+      {
+        "name": "Roman Puglise",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Whipsnakes"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 1,
+          "assists": 0,
+          "twoPointGoals": 2,
+          "turnovers": 4,
+          "groundBalls": 10,
+          "causedTurnovers": 2,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 9
+        }
+      },
+      {
+        "name": "Zach Geddes",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Chaos"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 3,
+          "assists": 3,
+          "twoPointGoals": 0,
+          "turnovers": 3,
+          "groundBalls": 19,
+          "causedTurnovers": 4,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 12,
+          "weekPts": 1,
+          "avgPPG": 2,
+          "salary": 11
+        }
+      },
+      {
+        "name": "Brendan Nichtern",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Chrome"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 1,
+          "assists": 1,
+          "twoPointGoals": 0,
+          "turnovers": 11,
+          "groundBalls": 1,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 337,
+          "weekPts": 0,
+          "avgPPG": 33.7,
+          "salary": 35
+        }
+      },
+      {
+        "name": "Wheaton Jackoboice",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Whipsnakes"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 0,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 3,
+          "weekPts": 0,
+          "avgPPG": 0.5,
+          "salary": 5
+        }
+      },
+      {
+        "name": "John Piatelli",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Redwoods"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 0,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 5
+        }
+      },
+      {
+        "name": "Mike Sisselberger",
+        "position": "FO",
+        "currentTeam": {
+          "fullName": "Archers"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 3,
+          "assists": 1,
+          "twoPointGoals": 0,
+          "turnovers": 15,
+          "groundBalls": 115,
+          "causedTurnovers": 1,
+          "faceoffsWon": 173,
+          "faceoffsLost": 78,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 44.2,
+          "avgPPG": 0,
+          "salary": 16
+        }
+      },
+      {
+        "name": "Connor Maher",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Archers"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 5,
+          "assists": 1,
+          "twoPointGoals": 0,
+          "turnovers": 4,
+          "groundBalls": 16,
+          "causedTurnovers": 4,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 10,
+          "avgPPG": 0,
+          "salary": 9
+        }
+      },
+      {
+        "name": "Piper Bond",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Archers"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 3,
+          "twoPointGoals": 0,
+          "turnovers": 7,
+          "groundBalls": 15,
+          "causedTurnovers": 5,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 9
+        }
+      },
+      {
+        "name": "Cam Wyers",
+        "position": "LSM",
+        "currentTeam": {
+          "fullName": "Archers"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 1,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 1,
+          "groundBalls": 5,
+          "causedTurnovers": 4,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 8
+        }
+      },
+      {
+        "name": "Gavin Adler",
+        "position": "D",
+        "currentTeam": {
+          "fullName": "Atlas"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 1,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 1,
+          "groundBalls": 10,
+          "causedTurnovers": 11,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 11,
+          "avgPPG": 0,
+          "salary": 12
+        }
+      },
+      {
+        "name": "Brett Makar",
+        "position": "LSM",
+        "currentTeam": {
+          "fullName": "Atlas"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 4,
+          "groundBalls": 43,
+          "causedTurnovers": 6,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 14,
+          "avgPPG": 0,
+          "salary": 10
+        }
+      },
+      {
+        "name": "Matt Campbell",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Cannons"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 11,
+          "assists": 4,
+          "twoPointGoals": 1,
+          "turnovers": 14,
+          "groundBalls": 10,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 17,
+          "avgPPG": 0,
+          "salary": 14
+        }
+      },
+      {
+        "name": "Will Bowen",
+        "position": "D",
+        "currentTeam": {
+          "fullName": "Chaos"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 1,
+          "assists": 2,
+          "twoPointGoals": 0,
+          "turnovers": 3,
+          "groundBalls": 27,
+          "causedTurnovers": 15,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 38,
+          "avgPPG": 0,
+          "salary": 12
+        }
+      },
+      {
+        "name": "Tye Kurtz",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Chaos"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 11,
+          "assists": 2,
+          "twoPointGoals": 0,
+          "turnovers": 8,
+          "groundBalls": 11,
+          "causedTurnovers": 2,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 8
+        }
+      },
+      {
+        "name": "Nick Rowlett",
+        "position": "FO",
+        "currentTeam": {
+          "fullName": "Chaos"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 2,
+          "assists": 1,
+          "twoPointGoals": 0,
+          "turnovers": 9,
+          "groundBalls": 81,
+          "causedTurnovers": 2,
+          "faceoffsWon": 117,
+          "faceoffsLost": 106,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 6.4,
+          "avgPPG": 0,
+          "salary": 10
+        }
+      },
+      {
+        "name": "Troy Hettinger",
+        "position": "LSM",
+        "currentTeam": {
+          "fullName": "Chrome"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 9,
+          "causedTurnovers": 1,
+          "faceoffsWon": 1,
+          "faceoffsLost": 17,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 9
+        }
+      },
+      {
+        "name": "Brian Tevlin",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Redwoods"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 2,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 4,
+          "groundBalls": 11,
+          "causedTurnovers": 7,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 11
+        }
+      },
+      {
+        "name": "Cole Kirst",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Redwoods"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 13,
+          "assists": 5,
+          "twoPointGoals": 0,
+          "turnovers": 2,
+          "groundBalls": 10,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 8
+        }
+      },
+      {
+        "name": "Zach Cole",
+        "position": "FO",
+        "currentTeam": {
+          "fullName": "Redwoods"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 0,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 12
+        }
+      },
+      {
+        "name": "Thomas McConvey",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Waterdogs"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 4,
+          "assists": 2,
+          "twoPointGoals": 0,
+          "turnovers": 3,
+          "groundBalls": 1,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 14
+        }
+      },
+      {
+        "name": "Alex Mazzone",
+        "position": "LSM",
+        "currentTeam": {
+          "fullName": "Waterdogs"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 2,
+          "groundBalls": 14,
+          "causedTurnovers": 2,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 1,
+          "avgPPG": 0,
+          "salary": 9
+        }
+      },
+      {
+        "name": "Chris Fake",
+        "position": "D",
+        "currentTeam": {
+          "fullName": "Waterdogs"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 1,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 8
+        }
+      },
+      {
+        "name": "Tucker Dordevic",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Whipsnakes"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 14,
+          "assists": 2,
+          "twoPointGoals": 5,
+          "turnovers": 7,
+          "groundBalls": 11,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 32,
+          "avgPPG": 0,
+          "salary": 15
+        }
+      },
+      {
+        "name": "Petey LaSalla",
+        "position": "FO",
+        "currentTeam": {
+          "fullName": "Whipsnakes"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 2,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 11,
+          "groundBalls": 108,
+          "causedTurnovers": 0,
+          "faceoffsWon": 145,
+          "faceoffsLost": 101,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 5.4,
+          "avgPPG": 0,
+          "salary": 14
+        }
+      },
+      {
+        "name": "Garrett Leadmon",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Whipsnakes"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 2,
+          "assists": 1,
+          "twoPointGoals": 0,
+          "turnovers": 4,
+          "groundBalls": 3,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 17,
+          "avgPPG": 0,
+          "salary": 8
+        }
+      },
+      {
+        "name": "Jake Richard",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Atlas"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 5,
+          "causedTurnovers": 3,
+          "faceoffsWon": 0,
+          "faceoffsLost": 1,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 95,
+          "weekPts": 0,
+          "avgPPG": 9.5,
+          "salary": 19
+        }
+      },
+      {
+        "name": "Tucker Durkin",
+        "position": "D",
+        "currentTeam": {
+          "fullName": "Atlas"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 1,
+          "groundBalls": 10,
+          "causedTurnovers": 3,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 59,
+          "weekPts": 1,
+          "avgPPG": 5.9,
+          "salary": 12
+        }
+      },
+      {
+        "name": "Peter Dearth",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Atlas"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 3,
+          "groundBalls": 11,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 59,
+          "weekPts": 0,
+          "avgPPG": 6.6,
+          "salary": 14
+        }
+      },
+      {
+        "name": "Cade van Raaphorst",
+        "position": "D",
+        "currentTeam": {
+          "fullName": "Cannons"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 4,
+          "turnovers": 5,
+          "groundBalls": 23,
+          "causedTurnovers": 7,
+          "faceoffsWon": 0,
+          "faceoffsLost": 2,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 200,
+          "weekPts": 0,
+          "avgPPG": 20,
+          "salary": 1
+        }
+      },
+      {
+        "name": "Danny Logan",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Atlas"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 4,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 5,
+          "groundBalls": 13,
+          "causedTurnovers": 2,
+          "faceoffsWon": 0,
+          "faceoffsLost": 4,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 162.6,
+          "weekPts": 2,
+          "avgPPG": 16.3,
+          "salary": 30
+        }
+      },
+      {
+        "name": "Adam Charalambides",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Cannons"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 3,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 3,
+          "groundBalls": 6,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 27,
+          "weekPts": 0,
+          "avgPPG": 9,
+          "salary": 1
+        }
+      },
+      {
+        "name": "Zach Goodrich",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Cannons"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 1,
+          "twoPointGoals": 0,
+          "turnovers": 1,
+          "groundBalls": 8,
+          "causedTurnovers": 4,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 78,
+          "weekPts": 0,
+          "avgPPG": 7.8,
+          "salary": 13
+        }
+      },
+      {
+        "name": "Matt Rambo",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Whipsnakes"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 14,
+          "assists": 11,
+          "twoPointGoals": 0,
+          "turnovers": 26,
+          "groundBalls": 9,
+          "causedTurnovers": 2,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 261,
+          "weekPts": 37,
+          "avgPPG": 26.1,
+          "salary": 32
+        }
+      },
+      {
+        "name": "Will Perry",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Chaos"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 5,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 2,
+          "groundBalls": 4,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 10,
+          "avgPPG": 0,
+          "salary": 1
+        }
+      },
+      {
+        "name": "Tim Muller",
+        "position": "D",
+        "currentTeam": {
+          "fullName": "Whipsnakes"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 2,
+          "groundBalls": 11,
+          "causedTurnovers": 10,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 75,
+          "weekPts": 8,
+          "avgPPG": 7.5,
+          "salary": 19
+        }
+      },
+      {
+        "name": "Marc O'Rourke",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Atlas"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 2,
+          "assists": 2,
+          "twoPointGoals": 0,
+          "turnovers": 4,
+          "groundBalls": 1,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 7,
+          "avgPPG": 0,
+          "salary": 1
+        }
+      },
+      {
+        "name": "Connor DeSimone",
+        "position": "A",
+        "currentTeam": {
+          "fullName": "Archers"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 1,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 1,
+          "groundBalls": 1,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 126,
+          "weekPts": 8,
+          "avgPPG": 25.2,
+          "salary": 12
+        }
+      },
+      {
+        "name": "Ryan Kennedy",
+        "position": "LSM",
+        "currentTeam": {
+          "fullName": "Redwoods"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 1,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 3,
+          "groundBalls": 8,
+          "causedTurnovers": 3,
+          "faceoffsWon": 0,
+          "faceoffsLost": 4,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 5,
+          "weekPts": 9,
+          "avgPPG": 2.5,
+          "salary": 10
+        }
+      },
+      {
+        "name": "Anthony DeMaio",
+        "position": "M",
+        "currentTeam": {
+          "fullName": "Redwoods"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 1,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 0,
+          "groundBalls": 1,
+          "causedTurnovers": 0,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 1,
+          "weekPts": 0,
+          "avgPPG": 1,
+          "salary": 5
+        }
+      },
+      {
+        "name": "Zac Tucci",
+        "position": "FO",
+        "currentTeam": {
+          "fullName": "Waterdogs"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 1,
+          "groundBalls": 3,
+          "causedTurnovers": 1,
+          "faceoffsWon": 4,
+          "faceoffsLost": 10,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 3.6,
+          "weekPts": 3.2,
+          "avgPPG": 0.9,
+          "salary": 6
+        }
+      },
+      {
+        "name": "Brendan Krebs",
+        "position": "G",
+        "currentTeam": {
+          "fullName": "Whipsnakes"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 2,
+          "groundBalls": 11,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 54,
+          "goalsAgainst": 44,
+          "twoPointGoalsAgainst": 3
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 0,
+          "avgPPG": 0,
+          "salary": 1
+        }
+      },
+      {
+        "name": "Chris Merle",
+        "position": "SSDM",
+        "currentTeam": {
+          "fullName": "Redwoods"
+        },
+        "previousSeasonStats": {
+          "onePointGoals": 0,
+          "assists": 0,
+          "twoPointGoals": 0,
+          "turnovers": 4,
+          "groundBalls": 9,
+          "causedTurnovers": 1,
+          "faceoffsWon": 0,
+          "faceoffsLost": 0,
+          "saves": 0,
+          "goalsAgainst": 0,
+          "twoPointGoalsAgainst": 0
+        },
+        "fantasyInfo": {
+          "seasonTotalPts": 0,
+          "weekPts": 2,
+          "avgPPG": 0,
+          "salary": 9
+        }
+      }
+    ]
+  }
+}
