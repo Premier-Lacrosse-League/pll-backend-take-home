@@ -27,7 +27,7 @@ To run the project run `npm run dev`
 - [ ] Write a single unit test to test the team auto generating functions
 
 ### Relevant Info
-Fantasy Stat Point Values
+###### Fantasy Stat Point Values
 | Field Name | Point Value | 
 | :-----------| :-----------: |
 | onePointGoals | 10 points |
@@ -42,17 +42,17 @@ Fantasy Stat Point Values
 | faceoffsWon | .8 points |
 | faceoffsLost | -1 points |
 
+###### Stat Bonuses
 If they have goals > 3
-
 &nbsp;&nbsp;goalBonus: 5 points
+
 If they have assists > 3
-
 &nbsp;&nbsp;assistBonus: 5 points
+
 If they have causedTurnovers > 3
-
 &nbsp;&nbsp;causedTurnoverBonus: 5 points
-If they have saves > 20
 
+If they have saves > 20
 &nbsp;&nbsp;saveBonus: 5 points
 
 
